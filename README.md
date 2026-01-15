@@ -1,2 +1,2 @@
 # quick_prac
-just for a quick practice
+just for a quick recap
